@@ -15,7 +15,7 @@ This repository contains batch scripts to automate various tasks on Windows 11, 
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/windows-11-batch-scripts.git
+   git clone https://github.com/Timourgv/windows-11-batch-scripts.git
 
     Navigate to the repository directory:
 
