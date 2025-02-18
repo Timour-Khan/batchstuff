@@ -39,7 +39,7 @@ Instructions
     Save the file.
     Right-click the install_gog_dlcs.bat file and select "Run as administrator."
 
-Example Script
+## Example Script
 
 @echo off
 REM Set the directory where the DLC installer files are located
@@ -56,11 +56,11 @@ for %%f in (*.exe) do (
 echo All DLCs have been installed silently.
 pause
 
-Contributing
+## Contributing
 
 Contributions are welcome! Please ensure your scripts are well-documented and follow best practices.
 License
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details
