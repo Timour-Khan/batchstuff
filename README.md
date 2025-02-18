@@ -61,4 +61,6 @@ Contributing
 Contributions are welcome! Please ensure your scripts are well-documented and follow best practices.
 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details
