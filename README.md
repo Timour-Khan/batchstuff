@@ -59,7 +59,7 @@ pause
 ## Contributing
 
 Contributions are welcome! Please ensure your scripts are well-documented and follow best practices.
-License
+
 
 ## License
 
