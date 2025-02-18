@@ -28,8 +28,8 @@ Usage
     Save the script with a .bat extension.
     Run the script by double-clicking it or executing it from an elevated Command Prompt window.
 
-Scripts
-## Install GOG DLCs
+## Scripts
+### Install GOG DLCs
 
 Automates the installation of DLCs from GOG by running installer files with the /VERYSILENT flag.
 Instructions
